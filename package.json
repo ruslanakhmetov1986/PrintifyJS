@@ -1,0 +1,16 @@
+{
+  "name": "printify-js",
+  "version": "1.0.0",
+  "description": "PrintifyJS is a powerful Node.js server application built with Puppeteer for converting web pages into PDF files seamlessly. It provides a simple and efficient solution for generating high-quality PDF documents from any web page with ease.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruslan Akhmetov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7",
+    "puppeteer": "^21.5.0"
+  }
+}
